@@ -1,0 +1,32 @@
+===== Slooze Take-Home Challenge EDA Summary =====
+
+Total records: 120
+Columns: ['category', 'product_name', 'product_url', 'price', 'supplier', 'location', 'price_value', 'location_norm']
+
+Category counts:
+category
+led_lights          40
+industrial_pumps    40
+cctv_cameras        40
+
+Missing values (%):
+price           3.333333
+price_value     3.333333
+location        2.500000
+product_url     0.000000
+product_name    0.000000
+category        0.000000
+supplier        0.000000
+
+Price statistics:
+count       116.000000
+mean      22506.068966
+std       62569.080215
+min          41.000000
+25%         761.250000
+50%        3500.000000
+75%       16375.000000
+max      450000.000000
+
+Duplicate rows found: 102
+
